@@ -9,13 +9,9 @@ import android.widget.Spinner;
 import android.widget.AdapterView.OnItemClickListener;
 import java.util.ArrayList;
 import java.util.List;
-import android.app.Activity;
-import android.os.Bundle;
-import android.view.View;
-import android.widget.ArrayAdapter;
-import android.widget.Toast;
 
-import java.util.ArrayList;
+import android.widget.ArrayAdapter;
+
 
 public class MainActivity extends AppCompatActivity {
 
